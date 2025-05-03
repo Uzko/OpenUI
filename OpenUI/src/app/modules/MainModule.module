@@ -1,0 +1,17 @@
+{
+  "props": [],
+  "components": {
+    "fileChooser": {
+      "type": "script\\FileChooserScript",
+      "x": 32,
+      "y": 32,
+      "props": {
+        "filterName": "exe-файл",
+        "filterExtensions": "*.exe",
+        "filterAny": "0",
+        "inputNode": "",
+        "actionNode": ""
+      }
+    }
+  }
+}

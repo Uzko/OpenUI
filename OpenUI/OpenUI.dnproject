@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project author="marat" authorOS="Windows 10" createdAt="1745958194803" ideName="DevelNext" ideVersion="16.7.0" ideVersionHash="2017103112" name="OpenUI" packageName="app" template="ide\project\templates\DefaultGuiProjectTemplate" updatedAt="1746038001646">
+<project author="marat" authorOS="Windows 10" createdAt="1745958194803" ideName="DevelNext" ideVersion="16.7.0" ideVersionHash="2017103112" name="OpenUI" packageName="app" template="ide\project\templates\DefaultGuiProjectTemplate" updatedAt="1746363910919">
   <tree>
     <expanded>
     <path src=""/>
-      <path src="/build"/>
+      <path src="/src"/>
+      <path src="/src/.data"/>
+      <path src="/src/.data/audio"/>
+      <path src="/src/.theme"/>
+      <path src="/src/app"/>
+      <path src="/src/app/modules"/>
       <path src="/vendor"/>
       <path src="/vendor/develnext.bundle.zip.ZipBundle"/>
       <path src="/vendor/develnext.bundle.zip.ZipBundle/bundle"/>
@@ -12,8 +17,8 @@
   </tree>
   <openedFiles>
   <file src="OpenUI.dnproject"/>
-    <file src="src/app/modules/MainModule.php"/>
-    <file selected="1" src="src/app/forms/MainForm.php"/>
+    <file selected="1" src="src/app/modules/MainModule.php"/>
+    <file src="src/app/forms/MainForm.php"/>
     <file src="src/app/modules/AppModule.php"/>
     <file src="vendor/develnext.bundle.zip.ZipBundle/bundle/zip/ZipFileScript.php"/>
   </openedFiles>

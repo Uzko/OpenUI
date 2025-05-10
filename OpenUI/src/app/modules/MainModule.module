@@ -1,6 +1,12 @@
 {
   "props": [],
   "components": {
+    "UIload": {
+      "type": "script\\MacroScript",
+      "x": 240,
+      "y": 48,
+      "props": {}
+    },
     "fileChooser": {
       "type": "script\\FileChooserScript",
       "x": 32,
